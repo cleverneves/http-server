@@ -5,5 +5,5 @@ Criação de um pequeno servidor utilizando Go.
 ### Executando
 
 ```sh
-go run main.go
+go run main.go <directory> <port>
 ```
